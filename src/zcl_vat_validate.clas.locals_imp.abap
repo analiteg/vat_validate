@@ -26,7 +26,7 @@ CLASS lcl_vat_validate DEFINITION CREATE PRIVATE.
 
   PRIVATE SECTION.
     CONSTANTS base_url TYPE string VALUE 'http://apilayer.net/api/validate'.
-    CONSTANTS api_key  TYPE string VALUE '668513636eefb52a8ff2b058b9da8d9a'.
+    CONSTANTS api_key  TYPE string VALUE 'Your API KEY from https://vatlayer.com/documentation'.
 
 ENDCLASS.
 
